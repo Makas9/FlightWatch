@@ -1,6 +1,8 @@
 # FlightWatch
 Fetches RSS data from travel deal pages and displays it in one page.
 
+Live demo: https://makas9.github.io/FlightWatch/
+
 # Features
 - [x] Fetch RSS data
 - [x] Generate tags from titles
