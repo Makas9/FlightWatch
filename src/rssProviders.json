@@ -1,0 +1,13 @@
+{
+  "providers": {
+    "fly4free": {
+      "image": "./images/providers/fly4free.jpg",
+      "rss": "https://www.fly4free.com/feed/"
+    },
+    "travelfree": {
+      "image": "./images/providerS/travelfree.jpeg",
+      "rss": "https://travelfree.info/feed/"
+    }
+  },
+  "clicks": 1000
+}
