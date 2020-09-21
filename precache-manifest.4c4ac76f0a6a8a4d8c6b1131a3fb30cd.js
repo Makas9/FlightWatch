@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7f288675020f0d419d259205f6d085c7",
+    "revision": "4e69b3457d5e71009db04113eda11a5e",
     "url": "/FlightWatch/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FlightWatch/static/css/2.79966c17.chunk.css"
   },
   {
-    "revision": "1cfa5ffd896f8ec1fd8d",
+    "revision": "e45e98420168d79990ff",
     "url": "/FlightWatch/static/css/main.f37afe95.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FlightWatch/static/js/2.0dbce0f4.chunk.js.LICENSE"
   },
   {
-    "revision": "1cfa5ffd896f8ec1fd8d",
-    "url": "/FlightWatch/static/js/main.2b941dc5.chunk.js"
+    "revision": "e45e98420168d79990ff",
+    "url": "/FlightWatch/static/js/main.e5816ae7.chunk.js"
   },
   {
     "revision": "7c6d33a4246b98139885",
