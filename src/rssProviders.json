@@ -5,7 +5,7 @@
       "rss": "https://www.fly4free.com/feed/"
     },
     "travelfree": {
-      "image": "./images/providerS/travelfree.jpeg",
+      "image": "./images/providers/travelfree.jpeg",
       "rss": "https://travelfree.info/feed/"
     }
   },
