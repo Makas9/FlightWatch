@@ -1,6 +1,6 @@
 {
-  "homepage": "http://makas9.github.io/flightwatch",
-  "name": "flightwatch",
+  "homepage": "http://makas9.github.io/FlightWatch",
+  "name": "FlightWatch",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
