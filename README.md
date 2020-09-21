@@ -4,7 +4,7 @@ Fetches RSS data from travel deal pages and displays it in one page.
 # Features
 - [x] Fetch RSS data
 - [x] Generate tags from titles
-- [] Filter deals by tags
+- [ ] Filter deals by tags
 
 # Setup
 1. Run `node server.js` to fetch RSS data.
